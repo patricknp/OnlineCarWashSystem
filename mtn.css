@@ -1,0 +1,23 @@
+body{
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)) ,url(bentley.jpg);
+    background-position: 100%;
+}
+
+
+h1{
+    
+    color: white;
+
+}
+li{
+    color: white;
+    font-size: 25px;
+}
+img{
+    
+    
+
+}

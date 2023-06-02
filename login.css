@@ -1,0 +1,54 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url(bentley.jpg);
+    background-position: 100%;
+}
+
+div.container {
+    display: grid;
+    border: 1px solid green;
+    padding: 20px;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 7);
+    font-family: arial;
+}
+
+div.container input {
+    margin: 20px;
+    width: 34vw;
+    height: 4vh;
+    border: green;
+}
+
+#login{
+    /* padding: 15px; */
+    border: none;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 10px;
+;
+}
+body{
+    background-color: white;
+   
+}
+input{
+    outline: none;
+    border-radius: 5px;
+}
+.container{
+    border: black;
+}
+div{
+    background-color:rgba(15, 1, 1, 0.397);
+}
